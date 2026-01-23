@@ -14,7 +14,7 @@ title: KOEN 맞춤챗봇 모음
 .link-card {
   display: block;
   padding: 18px 16px;
-  border: 2px solid #e0e0e0;
+  border: 1px solid #e0e0e0;
   border-radius: 10px;
   text-decoration: none;
   color: inherit;
@@ -25,7 +25,7 @@ title: KOEN 맞춤챗봇 모음
 }
 
 .link-card:hover {
-  border: 2px solid #e05050;
+  border: 1px solid #e05050;
   transform: translateY(-2px);
   box-shadow: 0 6px 14px rgba(0, 0, 0, 0.08);
 }
@@ -41,6 +41,7 @@ title: KOEN 맞춤챗봇 모음
 
 - 클릭 후 조금만 기다려주세요. GPT 초기로딩에 시간이 필요합니다(약 30초)
 - 문의/개선 연락 : ☎6812
+
 ---
 
 
