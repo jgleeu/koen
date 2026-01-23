@@ -21,11 +21,12 @@ title: KOEN 맞춤챗봇 모음
   background-color: #f9fafb;
   min-height: 80px; 
   transition: transform 0.15s ease, box-shadow 0.15s ease;
+  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.08);
 }
 
 .link-card:hover {
+  border: 2px solid #e05050;
   transform: translateY(-2px);
-  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.08);
 }
 
 .link-card-title {
