@@ -1,13 +1,4 @@
 theme: jekyll-theme-cayman
-description: |
-  업무효율화를 위한 챗봇 공유 페이지
-
-  ◼ 아래의 아이콘 또는 링크를 클릭하세요.
-    (아이콘이 보이지 않아도 모든 챗봇은 정상작동됩니다)
-
-  ◼ 클릭 후 조금만 기다려주세요. GPT 초기로딩에 시간이 필요합니다(약 30초)
-
-  ◼ 문의/개선 연락 : ☎6812
-
+description: 업무효율화를 위한 챗봇 공유 페이지
 github:
   is_project_page: false
