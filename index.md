@@ -18,7 +18,8 @@ title: KOEN 맞춤챗봇 모음
   border-radius: 10px;
   text-decoration: none;
   color: inherit;
-  background-color: #ffffff;
+  background-color: #f9fafb;
+  min-height: 80px; 
   transition: transform 0.15s ease, box-shadow 0.15s ease;
 }
 
@@ -34,17 +35,10 @@ title: KOEN 맞춤챗봇 모음
 </style>
 
 
+## 📌 이용 안내
 
-업무 중 반복되는 작업과 고민을 빠르게 해결하기 위해  
-**검증된 챗봇들을 한 곳에 정리**했습니다.
-
----
-
-### 📌 이용 안내
-
-- ▶ 클릭 후 **약 30초 정도 대기**가 필요합니다 (GPT 초기 로딩)
-- ▶ 문의/개선 연락 : ☎6812
-
+- 클릭 후 조금만 기다려주세요. GPT 초기로딩에 시간이 필요합니다(약 30초)
+- 문의/개선 연락 : ☎6812
 ---
 
 
