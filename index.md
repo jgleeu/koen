@@ -12,7 +12,9 @@ title: KOEN 맞춤챗봇 모음
 }
 
 .link-card {
-  display: block;
+  display: flex;
+  align-items: center;
+  gap: 16px;
   padding: 18px 16px;
   border: 1px solid #e0e0e0;
   border-radius: 10px;
@@ -34,6 +36,11 @@ title: KOEN 맞춤챗봇 모음
   font-weight: 600;
   font-size: 1rem;
 }
+
+.link-card-icon {
+  font-size: 2rem;
+  line-height: 1;
+}
 </style>
 
 
@@ -50,6 +57,7 @@ title: KOEN 맞춤챗봇 모음
 <div class="link-grid">
   {% for link in site.data.links %}
     <a class="link-card" href="{{ link.url }}" target="_blank" rel="noopener">
+      <span class="link-card-icon" aria-hidden="true">⭐</span>
       <div class="link-card-title">{{ link.title }}</div>
     </a>
   {% endfor %}
